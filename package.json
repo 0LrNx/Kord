@@ -1,0 +1,25 @@
+{
+  "name": "z",
+  "version": "1.0.0",
+  "description": "",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0LrNx/Kord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/0LrNx/Kord/issues"
+  },
+  "homepage": "https://github.com/0LrNx/Kord#readme",
+  "devDependencies": {
+    "vite": "^8.0.1"
+  }
+}
