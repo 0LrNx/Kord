@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/0LrNx/Kord#readme",
   "devDependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "@types/chrome": "^0.1.38",
+    "tailwindcss": "^4.2.2",
+    "typescript": "^5.9.3",
     "vite": "^8.0.1"
   }
 }

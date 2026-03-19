@@ -3,10 +3,14 @@
   "name": "Kord",
   "version": "1.0",
   "description": "Permet d'enregistrer des URLs vers différents salons Discord.",
-  "permissions": ["activeTab", "scripting"],
+  "permissions": ["activeTab", "scripting", "storage"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": "icon.png"
+  },
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
   },
   "icons": {
     "128": "icon.png"
